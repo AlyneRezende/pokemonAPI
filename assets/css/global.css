@@ -8,15 +8,20 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #cbdbfc;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #ffffff;
 }
+
+.content h1 {
+    margin-left: 1rem;
+}
+
 
 @media screen and (min-width: 992px) {
     .content {
